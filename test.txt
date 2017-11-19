@@ -1,2 +1,4 @@
-This is a test file. Its in new_branch. Hello there.
-Modifying the file. This change should be reverted.
+This is a test file. Retaining Local update
+Update 1
+Update 2
+Update 3
